@@ -1,0 +1,31 @@
+## editors
+/.idea
+/.vscode
+
+## system files
+.DS_Store
+
+## npm
+/node_modules/
+/npm-debug.log
+
+## testing
+/coverage/
+
+## temp folders
+/.tmp/
+
+# build
+/_site/
+/dist/
+/demo/wc/custom-elements.json
+/bundle-stats.html
+/preact.js*
+/web-components.js*
+/manager.js*
+/addon-docs*
+/addons.js*
+/api.js*
+/client-api.js*
+/core-events*
+/theming*
